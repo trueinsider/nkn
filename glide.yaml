@@ -19,6 +19,7 @@ import:
   version: ~1.4.0
 - package: github.com/itchyny/base58-go
 - package: github.com/nknorg/go-nat
+  version: 6339479af9cce1e6c4f5efe96c0306fb6149397c
 - package: github.com/nknorg/go-portscanner
 - package: github.com/nknorg/gopass
 - package: github.com/patrickmn/go-cache
