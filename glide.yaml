@@ -18,6 +18,7 @@ import:
 - package: github.com/gorilla/websocket
   version: ~1.4.0
 - package: github.com/itchyny/base58-go
+- package: github.com/nknorg/go-nat
 - package: github.com/nknorg/go-portscanner
 - package: github.com/nknorg/gopass
 - package: github.com/patrickmn/go-cache
