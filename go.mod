@@ -1,4 +1,4 @@
-module github.com/nknorg/nkn
+module github.com/trueinsider/nkn
 
 require (
 	github.com/gogo/protobuf v1.1.1
